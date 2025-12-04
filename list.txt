@@ -32,4 +32,5 @@
 
 ## Other random
 
-cdn.wpcc.io
+||wpcc.io^
+||marketingautomation.services^
