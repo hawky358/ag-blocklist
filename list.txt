@@ -32,4 +32,4 @@
 
 ## Other random
 
-127.0.0.1 cdn.wpcc.io
+0.0.0.0 cdn.wpcc.io
