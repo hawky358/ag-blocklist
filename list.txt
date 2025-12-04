@@ -28,3 +28,8 @@
 127.0.0.1 su.lge.com
 127.0.0.1 lgtvonline.lge.com
 127.0.0.1 snu.lge.com
+
+
+## Other random
+
+127.0.0.1 cdn.wpcc.io
