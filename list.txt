@@ -47,31 +47,3 @@
 
 
 
-#QUest stuff
-
-! --- Core Meta Telemetry & Tracking ---
-||graph.facebook.com^$client='192.168.0.37'
-||edge-mqtt.facebook.com^$client='192.168.0.37'
-||telemetry.oculus.com^$client='192.168.0.37'
-||graph.oculus.com^$client='192.168.0.37'
-||b-graph.facebook.com^$client='192.168.0.37'
-||mq-mini.facebook.com^$client='192.168.0.37'
-
-! --- CDN & Asset Trackers (New) ---
-||fbcdn.net^$client='192.168.0.37'
-||fbsbx.com^$client='192.168.0.37'
-||facebook.net^$client='192.168.0.37'
-
-! --- Crash Reporting & Diagnostics (New) ---
-||crashlytics.com^$client='192.168.0.37'
-||oculus.bugreportuploader^$client='192.168.0.37'
-||oculus.bugreportservice^$client='192.168.0.37'
-||rupload.facebook.com^$client='192.168.0.37'
-
-! --- Advertising & Behavioral IDs ---
-||://facebook.com^$client='192.168.0.2'
-||://meta.com^$client='192.168.0.37'
-||meta.horizonadidservice^$client='192.168.0.37'
-||google-analytics.com^$client='192.168.0.37'
-
-
