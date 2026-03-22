@@ -22,13 +22,11 @@
 127.0.0.1 ereg.wip3.adobe.com
 127.0.0.1 wwis-dubc1-vip60.adobe.com
 
-
 ## Block LG TV from updating and some spying
 
 127.0.0.1 su.lge.com
 127.0.0.1 lgtvonline.lge.com
 127.0.0.1 snu.lge.com
-
 
 ## Other random
 
