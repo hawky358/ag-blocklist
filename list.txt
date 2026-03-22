@@ -31,10 +31,12 @@
 
 
 
-127.0.0.1 eligibility-panelresearch.googlevideo.com
+127.0.0.1 za.lgtvsdp.com
+127.0.0.1 ueiwsp.com
 
-127.0.0.1 v2.firmware.denon.jp
-127.0.0.1 heos-api.com
+127.0.0.1 discovery.meethue.com
+127.0.0.1 su-ssl.lge.com
+127.0.0.1 skyegloup.com
 
 
 ## Other random
