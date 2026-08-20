@@ -45,3 +45,4 @@
 ||api.denon.com^
 ||ws.denon.com^
 ||update.denon.org^
+||skyegloup.com^
