@@ -34,4 +34,14 @@
 ||marketingautomation.services^
 
 
-
+||heos.com^
+||heosbydenon.com^
+||://heos.com^
+||production-heos-://heos.com^
+||://heos.com^
+||://heos.com^
+||://heos.com^
+||denon.com^
+||api.denon.com^
+||ws.denon.com^
+||update.denon.org^
